@@ -18,11 +18,11 @@ Bu ödevde verilen senaryo doğrultusunda, yanlış kullanıcı adı ve şifre i
 
 ## Proje Dosya Yapısı
 
-soru_5/
+"soru_5/
 ├── tests/
 │ └── test_login_invalid.py
 ├── test-sonucu.png
-└── README.md
+└── README.md"
 
 ## Testin Çalıştırılması
 
