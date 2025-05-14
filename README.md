@@ -17,13 +17,13 @@ Bu ödevde verilen senaryo doğrultusunda, yanlış kullanıcı adı ve şifre i
 5. Sonuç ekrana yazdırılır ve tarayıcı kapatılır.
 
 ## Proje Dosya Yapısı
-
-soru_5/
-├── tests/
-│ └── test_login_invalid.py
-├── test-sonucu.png
-└── README.md
-
+```bash
+📁 your-project-folder/
+ ┣ 📁 tests/
+ ┃ ┗ test_login_invalid.py (veya .java)
+ ┣ 📄 README.md
+ ┗ 📷 test-sonucu.png (ekran görüntüsü)
+```
 ## Testin Çalıştırılması
 
 Terminalden şu komut ile test çalıştırılır:
