@@ -18,7 +18,7 @@ Bu ödevde verilen senaryo doğrultusunda, yanlış kullanıcı adı ve şifre i
 
 ## Proje Dosya Yapısı
 ```bash
-📁 soru_5/
+📁 marmara-test-otomasyon
  ┣ 📁 tests/
  ┃ ┗ test_login_invalid.py (veya .java)
  ┣ 📄 README.md
